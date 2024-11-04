@@ -37,7 +37,9 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-## [get an API key](https://platform.openai.com/account/api-keys)
+## [To Get OPENAI API key](https://platform.openai.com/account/api-keys)
+
+## [To Get GEMINI API KEY](https://aistudio.google.com/app/apikey)
 
 .env file
 
