@@ -2,7 +2,7 @@
 
 
 
-- **Google API KEY** : [Google](https://aistudio.google.com/app/apikey)
+- **Google API KEY** : [(https://aistudio.google.com/app/apikey)]
 - **Langchain** : [Langchain](https://python.langchain.com/docs/introduction/) : LangChain is a framework for developing applications powered by large language models (LLMs).
 - **ChromaDB** : [chromaDB](https://python.langchain.com/v0.2/docs/integrations/vectorstores/chroma/) : Chroma is a AI-native open-source vector database focused on developer productivity
 - 
