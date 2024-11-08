@@ -31,8 +31,8 @@ prompt_template = ChatPromptTemplate.from_template(template)
 def load_documents():
     """Load a file from path, split it into chunks, embed each chunk and load it into the vector store."""
     try:
-        raw_documents = TextLoader("./docs/user-manual.txt").load()
-        text_splitter = CharacterTextSplitter(chunk_size=100, chunk_overlap=0)
+        raw_documents = TextLoader("./docs/user-manual.txt").load() # smart home hub user guide
+        text_splitter = CharacterTextSplitter(chunk_size=1250, chunk_overlap=0)
         return text_splitter.split_documents(raw_documents)
     except Exception as e:
         print(Fore.RED + "Error loading documents: " + str(e))
@@ -90,7 +90,7 @@ def main():
             print("Exiting...")
             break
         response = query(user_question)
-        print(Fore.GREEN + "Bot /> " + response)
+        print(Fore.GREEN + "Bot /> " + Fore.RESET + response)
         print(Fore.WHITE + "---------------------------------------------------------------------------")
 
 if __name__ == "__main__":

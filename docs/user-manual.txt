@@ -1,33 +1,49 @@
-﻿Washing Machine XYZ User Manual
-1. Introduction
-* Welcome to the world of the Washing Machine XYZ. This manual provides detailed instructions for the safe and efficient use of your washing machine.
-2. Safety
-* Before using the washing machine, please read all the safety instructions provided in this manual carefully.
-* Ensure that you plug the washing machine into a grounded electrical outlet in accordance with local regulations.
-* Do not use the washing machine if the power cord or plug is damaged.
-* Do not touch the washing machine with wet hands or feet to avoid electric shocks.
-3. Installation
-* Place the washing machine on a flat and stable surface.
-* Connect the washing machine to a cold water source using the provided water inlet hose.
-* Attach the drain hose to the drain or appropriate drainage system.
-4. Usage
-* Open the washing machine lid and load the laundry evenly into the drum.
-* Add the appropriate amount of detergent according to the manufacturer's instructions.
-* Select the desired wash program using the program table provided in the manual.
-5. Maintenance
-* Regularly clean the pump filter to prevent blockages.
-* Check the water inlet and drain hoses for leaks or damage.
-* Regularly clean the inside of the washing machine to prevent mold and bacteria buildup.
-6. Error Codes
-* E1: Water filling problem. Check the water connections and shut-off valve.
-* E2: Drainage problem. Check the drain hose for blockages.
-* E3: Drum rotation problem. Check the laundry load for balance.
-* E4: Door locking problem. Ensure the door is properly closed.
-7. Repair
-* If you encounter problems with your washing machine, please contact our after-sales service at the number provided below.
-8. Contact
-* For any questions or additional assistance, please contact our customer service at:
-   * Phone: +33 880 880 887
-   * Email: serviceclient@machinelaverxyz.com
-   * Website: www.machinelaverxyz.com
-Thank you for choosing the Washing Machine XYZ. We hope it brings you complete satisfaction for many years to come.
+﻿1. Introduction
+Welcome to the SmartHome Hub! This smart device connects and controls all your IoT (Internet of Things) devices in one convenient hub. This guide will help you get started with installation, configuration, and troubleshooting.
+
+2. Getting Started
+2.1 What’s in the Box
+SmartHome Hub
+Power Adapter
+Ethernet Cable
+Quick Start Guide
+2.2 System Requirements
+To use SmartHome Hub, ensure you have:
+
+A stable Wi-Fi connection (2.4 GHz or 5 GHz)
+A smartphone running iOS 12+ or Android 8+
+Access to a power outlet near your router
+3. Installation and Setup
+Power On: Connect the SmartHome Hub to the power adapter and plug it in.
+Connect to Wi-Fi: Open the SmartHome App on your phone and follow the instructions to connect the hub to Wi-Fi.
+Device Pairing: Once connected, add IoT devices through the app by following the in-app pairing steps.
+4. Common Troubleshooting
+4.1 Connectivity Issues
+Problem: The SmartHome Hub won’t connect to Wi-Fi.
+Solution: Ensure your Wi-Fi password is correct. Restart the router and try again.
+4.2 Device Pairing Issues
+Problem: Cannot add a new IoT device to the hub.
+Solution: Ensure the device is powered on and within range. Try resetting the device.
+4.3 App Crashes
+Problem: The SmartHome App crashes frequently.
+Solution: Check if there is an update for the app. Restart your smartphone and reopen the app.
+5. FAQs
+Q: Can I control the hub with voice commands?
+
+A: Yes, the SmartHome Hub is compatible with Alexa and Google Assistant.
+Q: What should I do if I forget my Wi-Fi password?
+
+A: Refer to your router’s manual for instructions on resetting or retrieving your Wi-Fi password.
+Q: Does the hub support 5 GHz Wi-Fi?
+
+A: Yes, it supports both 2.4 GHz and 5 GHz frequencies.
+6. Advanced Configuration
+6.1 Creating Automation Routines
+Set up automation routines like turning on lights or adjusting the thermostat at specific times. Go to the Automations section in the app to create new routines.
+
+6.2 Firmware Updates
+To ensure your SmartHome Hub runs smoothly, check for firmware updates regularly in the app.
+
+7. Technical Support and Warranty
+Contact Support: For further assistance, reach out via the SmartHome Support page in the app.
+Warranty: The SmartHome Hub comes with a 1-year warranty covering manufacturing defects.
